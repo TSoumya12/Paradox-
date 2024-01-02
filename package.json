@@ -1,0 +1,17 @@
+{
+  "name": "templatemo_545_finance_business",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sendOTP.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/communication-sms": "^1.1.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
